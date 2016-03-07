@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+void main ()
+{
+int a;
+cout<<"enter the num";
+cin>>a;
+if(a%2==0)
+{
+cout<<"num is EVEN";
+}
+else { cout<<"num is ODD";}
+getch();
+}
